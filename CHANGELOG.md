@@ -1,5 +1,5 @@
 # Changes
 
-## Added:
+## Updated:
 
-- Basic chat socket connection
+- File name of main js file
